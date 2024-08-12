@@ -3,4 +3,4 @@
 
 Simulator Screen Shot 
 
-![Simulator Screen Shot] (./Simulator Screen Shot .png)
+![Simulator Screen Shot](./Simulator Screen Shot .png)
